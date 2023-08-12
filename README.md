@@ -16,4 +16,4 @@
    1. Preprocessing
    2. Visualize feature distributions
    3. Data Normalization
-   4.K-means Implementation
+   4. K-means Implementation
