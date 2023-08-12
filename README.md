@@ -12,8 +12,8 @@
    8. Top Customers
    9. Applying RFM score formula
    10. Creation of RFM segmentation table
-4. Applying K-means clustering on RFM variables
-  1. Preprocessing
-  2. Visualize feature distributions
-  3. Data Normalization
-6. K-means Implementation
+3. Applying K-means clustering on RFM variables
+   1. Preprocessing
+   2. Visualize feature distributions
+   3. Data Normalization
+   4.K-means Implementation
